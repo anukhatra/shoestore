@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shoestore/static/css/main.7b46f031.chunk.css",
+    "main.js": "/shoestore/static/js/main.4e351161.chunk.js",
+    "main.js.map": "/shoestore/static/js/main.4e351161.chunk.js.map",
+    "runtime-main.js": "/shoestore/static/js/runtime-main.d0b37231.js",
+    "runtime-main.js.map": "/shoestore/static/js/runtime-main.d0b37231.js.map",
+    "static/js/2.e51392bf.chunk.js": "/shoestore/static/js/2.e51392bf.chunk.js",
+    "static/js/2.e51392bf.chunk.js.map": "/shoestore/static/js/2.e51392bf.chunk.js.map",
+    "index.html": "/shoestore/index.html",
+    "precache-manifest.ea74a8fccdbaa7a82c717bb751f57ecc.js": "/shoestore/precache-manifest.ea74a8fccdbaa7a82c717bb751f57ecc.js",
+    "service-worker.js": "/shoestore/service-worker.js",
+    "static/css/main.7b46f031.chunk.css.map": "/shoestore/static/css/main.7b46f031.chunk.css.map",
+    "static/js/2.e51392bf.chunk.js.LICENSE.txt": "/shoestore/static/js/2.e51392bf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0b37231.js",
+    "static/js/2.e51392bf.chunk.js",
+    "static/css/main.7b46f031.chunk.css",
+    "static/js/main.4e351161.chunk.js"
+  ]
+}
